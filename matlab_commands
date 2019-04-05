@@ -1,0 +1,2 @@
+>> imshow(img)
+>> print(gcf,'foo.png','-dpng','-r1200');
