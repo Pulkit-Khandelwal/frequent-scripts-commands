@@ -1,0 +1,3 @@
+mencoder "mf://*.png" -o movie.avi -ovc lavc -lavcopts vcodec=mjpeg
+
+gifify spine.mp4 -o spine.gif 
